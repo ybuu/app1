@@ -1,8 +1,5 @@
-Simple MVC
 
-Aplicación usando Modelo Vista Controlador.
 
-Aplicación básica para ejemplificar el patrón de diseño MVC.
+Aplicacion vista controlador
 
-Cristian Bernal
-crisbera@gmail.com
+Yanely Beatriz Uitz UC
